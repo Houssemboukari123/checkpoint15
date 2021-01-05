@@ -1,13 +1,24 @@
-.star {
-  color: gold;
+.App {
+  text-align: center;
 }
-.star2 {
-  font-size: 25px;
-  cursor: pointer;
-  color: grey;
+.poster {
+  width: 200px;
+  height: 300px;
 }
-.colored-star {
-  font-size: 25px;
-  cursor: pointer;
-  color: gold;
+.nav {
+  margin-bottom: 5%;
+}
+.new {
+  margin: 3%;
+}
+.item {
+  color: rgb(158, 50, 50);
+}
+.trailer {
+  padding-bottom: 4%;
+  padding-top: 3%;
+  align-items: center;
+}
+.title {
+  padding-bottom: 1%;
 }
